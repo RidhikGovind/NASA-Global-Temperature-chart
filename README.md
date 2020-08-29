@@ -1,5 +1,5 @@
 # NASA-Global-Annual-Temperature-LineChart
-## A line chart made using Chart.js which represents the "Combined Land-Surface Air and Sea-Surface Water Temperature Anomalies" or Global Annual Temperature rise. 
+## A line chart made using Chart.js which represents the World Average Temperature from the year 1880 - 2019.
 ## Chart was made through fetching .csv (Comma Separated Values) file using Async/Await function and parsing it into .txt.
 ### Tech Stack: HTML, JS, CHART.JS 
 
