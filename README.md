@@ -6,4 +6,4 @@
 * Chart.js - https://www.chartjs.org/docs/latest/
 * NASA temperature data - https://data.giss.nasa.gov/gistemp/
 
-[Demo](https://ridhikgovind.github.io/NASA-Global-Temperature-chart/)
+* DEMO [](https://ridhikgovind.github.io/NASA-Global-Temperature-chart/)
